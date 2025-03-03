@@ -1,5 +1,17 @@
 # CodSoft_Task_01
 
+**Name:-** Devendra Sudhakar Kumbhare
+
+**Company:-** CodSoft
+
+**ID:-** CS25RY13318
+
+**Domain:-** Python Programming
+
+**Duration:-** 20 February 2025 to 20 March 2025
+
+***Overview of Project***
+
 I have been Completed my CodSoft 1st Project ✨ 
 
 🚀 Contact Book in Python – A Simple Yet Powerful Project! 📖📱
@@ -16,7 +28,9 @@ I recently worked on a Contact Book project using Python, which helps users stor
 
 🛠 Tech Stack Used:
 🔹 Python (Core programming)
+
 🔹 File Handling (TXT/JSON/SQLite for storage)
+
 🔹 Tkinter (for GUI version)
 
 💡 Key Takeaways:
